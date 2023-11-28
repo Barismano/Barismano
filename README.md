@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdullah Barış
 - 👀 I’m interested in Software Technologys,Computer Science and Malware Analyses
-- 🌱 I’m currently learning Java, C#, Flutter and React.js
+- 🌱 I’m currently learning .Net Core ,T-SQL and Software Arthitectures
 - 📫 How to reach me -> barsmano@gmail.com
 
 <!---
